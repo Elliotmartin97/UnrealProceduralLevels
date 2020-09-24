@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CodingProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{55F897B9-6ABA-42E9-8840-6EA3F83AB8C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CodingProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CodingProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1B456E31-8F41-408E-AA22-67D930FCADE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CodingProject">
+      <UniqueIdentifier>{11E8FCBA-B00A-47FE-97E2-E16BCA0708D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CodingProject\CodingProject.Build.cs">
+      <Filter>Source\CodingProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CodingProject\CodingProject.cpp">
+      <Filter>Source\CodingProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodingProject\CodingProject.h">
+      <Filter>Source\CodingProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CodingProject\CodingProjectGameModeBase.cpp">
+      <Filter>Source\CodingProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodingProject\CodingProjectGameModeBase.h">
+      <Filter>Source\CodingProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\CodingProject\Private">
+      <UniqueIdentifier>{C14553D7-59C6-463B-A59A-A7FF5A4BDDEC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CodingProject\Private\CustomGamemode.cpp">
+      <Filter>Source\CodingProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CodingProject\Private\PlayerPawn.cpp">
+      <Filter>Source\CodingProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CodingProject\Public">
+      <UniqueIdentifier>{82EC57F2-8B60-486C-A24C-5533C35BEF41}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CodingProject\Public\CustomGamemode.h">
+      <Filter>Source\CodingProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CodingProject\Public\PlayerPawn.h">
+      <Filter>Source\CodingProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+﻿  Building CodingProjectEditor...
+  Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] PlayerPawn.cpp
+    [2/4] UE4Editor-CodingProject-0009.lib
+       Creating library C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\UE4Editor-CodingProject-0009.lib and object C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\UE4Editor-CodingProject-0009.exp
+    [3/4] UE4Editor-CodingProject-0009.dll
+       Creating library C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\UE4Editor-CodingProject-0009.suppressed.lib and object C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\UE4Editor-CodingProject-0009.suppressed.exp
+    [4/4] CodingProjectEditor.target
+  Total time in Parallel executor: 7.07 seconds
+  Total execution time: 8.15 seconds

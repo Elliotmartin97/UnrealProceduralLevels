@@ -1,0 +1,2 @@
+C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\Definitions.CodingProject.h
+C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Source\CodingProject\CodingProject.h

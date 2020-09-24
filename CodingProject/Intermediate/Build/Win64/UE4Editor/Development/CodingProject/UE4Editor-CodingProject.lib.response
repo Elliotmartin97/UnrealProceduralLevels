@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CodingProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\CodingProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CustomGamemode.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\PlayerPawn.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CodingProject.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CodingProjectGameModeBase.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CodingProject.init.gen.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CodingProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\CustomGamemode.gen.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\PlayerPawn.gen.cpp.obj"
+"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\Default.rc2.res"
+/OUT:"C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\UE4Editor-CodingProject.lib"
+/INCLUDE:IMPLEMENT_MODULE_CodingProject

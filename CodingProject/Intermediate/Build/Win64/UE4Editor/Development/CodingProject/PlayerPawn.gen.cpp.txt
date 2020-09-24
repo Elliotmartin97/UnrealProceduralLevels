@@ -1,0 +1,5 @@
+C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Development\CodingProject\Definitions.CodingProject.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Source\CodingProject/Public/PlayerPawn.h
+C:\Users\Ellio\Documents\Unreal Projects\CodingProject\Intermediate\Build\Win64\UE4Editor\Inc\CodingProject\PlayerPawn.generated.h

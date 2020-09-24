@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CodingProject",
+			"Path": "C:\\Users\\Ellio\\Documents\\Unreal Projects\\CodingProject\\Source\\CodingProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CodingProjectEditor",
+			"Path": "C:\\Users\\Ellio\\Documents\\Unreal Projects\\CodingProject\\Source\\CodingProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
